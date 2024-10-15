@@ -45,3 +45,45 @@ a {
     display: flex;
     gap: 16px;
 }
+
+.hero-section {
+    background-color: #1F2937;
+    height: 500px;
+}
+
+.hero-section .container {
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+.hero-section .hero-content {
+    flex: 1;
+}
+
+.hero-section .title {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+
+.hero-section .sub-title {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.hero-section .cta {
+    background-color: #3882F6;
+    border: none;
+    margin-top: 16px;
+    padding: 10px 30px;
+    font-size: 18px;
+    color: #F9FAF8;
+    font-weight: 900;
+    border-radius: 8px;
+}
+
+.hero-section .hero-banner {
+    flex: 1;
+    text-align: center;
+}
