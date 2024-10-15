@@ -122,3 +122,31 @@ a {
     text-align: center;
     margin-top: 8px;
 }
+
+.quote-section {
+    height: 400px;
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote-section .container {
+    padding: 0 60px;
+}
+
+.quote-section .quote {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.quote-section .author {
+    margin-top: 8px;
+    font-size: 24px;
+    color: #1F2937;
+    font-weight: bold;
+    text-align: right;
+    margin-right: 40px;
+}
