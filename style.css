@@ -191,3 +191,14 @@ a {
     font-weight: 600;
     border-radius: 8px;
 }
+
+.footer {
+    background-color: #1F2937;
+}
+
+.footer .copyright-text {
+    text-align: center;
+    color: #F9FAF8;
+    padding: 40px 0;
+    font-size: 18px;
+}
