@@ -147,7 +147,8 @@ a {
 }
 
 .quote-section .container {
-    padding: 0 60px;
+    max-width: 800px;
+    padding: 0 8px;
 }
 
 .quote-section .quote {
